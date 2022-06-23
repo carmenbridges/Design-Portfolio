@@ -3,12 +3,12 @@ body {
   text-align: center;
 }
 
-h1 {
+h2 {
   font-family: 'Open Sans', sans-serif;
   padding-bottom: 10px;
 }
 
-h3 {
+h4 {
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -121,9 +121,9 @@ h3 {
 .footer-link {
   color: #000000;
   font-family: 'Open Sans', sans-serif;
-  margin: 10px 20px;
-  padding: 20px 0;
+  margin: 20px;
   text-decoration: none;
+  display: inline-block;
 }
 
 .footer-link:hover {
