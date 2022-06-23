@@ -1,0 +1,163 @@
+body {
+  background-color: #E4F9F5;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container-fluid {
+  padding: 4% 15%;
+}
+
+.landing-div {
+  text-align: center;
+  padding: 2px;
+}
+
+.landingimg {
+  width: 100%;
+}
+
+.info-div {
+  display: flex;
+}
+
+.product-div {
+  width: 50%;
+  text-align: center;
+  padding: 2px;
+}
+
+.productimg {
+  width: 100%;
+}
+
+.research-div {
+  width: 50%;
+  text-align: center;
+  padding: 2px;
+}
+
+.researchimg {
+  width: 100%;
+}
+
+.sitemap-div {
+  text-align: center;
+  padding: 2px;
+}
+
+.sitemapimg {
+  width: 100%;
+}
+
+.sketches-div {
+  text-align: center;
+  padding: 2px;
+}
+
+.sketchesimg {
+  width: 100%;
+}
+
+.middle-div {
+  display: flex;
+}
+
+.wireframes-div {
+  width: 30%;
+  text-align: center;
+  padding: 2px;
+}
+
+.wireframesimg {
+  width: 100%;
+}
+
+.design-div {
+  width: 30%;
+  text-align: center;
+  padding: 2px;
+}
+
+.designimg {
+  width: 100%;
+}
+
+.final-div {
+  width: 40%;
+  text-align: center;
+  padding: 2px;
+}
+
+.finalimg {
+  width: 100%;
+}
+
+.layouts-div {
+  text-align: center;
+  padding: 2px;
+}
+
+.layoutsimg {
+  width: 100%;
+}
+
+.contact-me {
+  padding: 35px 0 20px 0;
+}
+
+.bottom-container {
+  padding: 20px;
+}
+
+.footer-link {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  margin: 10px 20px;
+  padding: 20px 0;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #11999E;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #1F7C6A;
+  background-image: -webkit-linear-gradient(top, #1F7C6A, #5AA899);
+  background-image: -moz-linear-gradient(top, #1F7C6A, #5AA899);
+  background-image: -ms-linear-gradient(top, #1F7C6A, #5AA899);
+  background-image: -o-linear-gradient(top, #1F7C6A, #5AA899);
+  background-image: linear-gradient(to bottom, #1F7C6A, #5AA899);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #398F7E;
+  background-image: -webkit-linear-gradient(top, #398F7E, #8BCBBE);
+  background-image: -moz-linear-gradient(top, #398F7E, #8BCBBE);
+  background-image: -ms-linear-gradient(top, #398F7E, #8BCBBE);
+  background-image: -o-linear-gradient(top, #398F7E, #8BCBBE);
+  background-image: linear-gradient(to bottom, #398F7E, #8BCBBE);
+  text-decoration: none;
+}
